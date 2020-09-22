@@ -2,4 +2,3 @@
 #
 b803adb8269e114b7340183a247c14cc2221763d                                	saml/onap-gerrit-aaf-oom-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                	GitHub Replication
-ldap:cn=onap-gerrit-aaf-oom-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-aaf-oom-committers
